@@ -1,3 +1,5 @@
-# phosphene 
+![Audio Reactive Visuals with StyleGAN](./header.png)
 
-StyleGAN3 audio-reactive visualisations 
+![Diagram](./diagram.png)
+
+Pretrained models from [awesome pretrained stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) and [awesome pretrained stylegan3](https://github.com/justinpinkney/awesome-pretrained-stylegan3).
